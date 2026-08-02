@@ -1,0 +1,15 @@
+D:\vs_code\Github\Unity\C#\02_classes_and_objects\bin\Debug\net9.0\02_classes_and_objects.exe
+D:\vs_code\Github\Unity\C#\02_classes_and_objects\bin\Debug\net9.0\02_classes_and_objects.deps.json
+D:\vs_code\Github\Unity\C#\02_classes_and_objects\bin\Debug\net9.0\02_classes_and_objects.runtimeconfig.json
+D:\vs_code\Github\Unity\C#\02_classes_and_objects\bin\Debug\net9.0\02_classes_and_objects.dll
+D:\vs_code\Github\Unity\C#\02_classes_and_objects\bin\Debug\net9.0\02_classes_and_objects.pdb
+D:\vs_code\Github\Unity\C#\02_classes_and_objects\obj\Debug\net9.0\02_classes_and_objects.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs_code\Github\Unity\C#\02_classes_and_objects\obj\Debug\net9.0\02_classes_and_objects.AssemblyInfoInputs.cache
+D:\vs_code\Github\Unity\C#\02_classes_and_objects\obj\Debug\net9.0\02_classes_and_objects.AssemblyInfo.cs
+D:\vs_code\Github\Unity\C#\02_classes_and_objects\obj\Debug\net9.0\02_classes_and_objects.csproj.CoreCompileInputs.cache
+D:\vs_code\Github\Unity\C#\02_classes_and_objects\obj\Debug\net9.0\02_classes_and_objects.sourcelink.json
+D:\vs_code\Github\Unity\C#\02_classes_and_objects\obj\Debug\net9.0\02_classes_and_objects.dll
+D:\vs_code\Github\Unity\C#\02_classes_and_objects\obj\Debug\net9.0\refint\02_classes_and_objects.dll
+D:\vs_code\Github\Unity\C#\02_classes_and_objects\obj\Debug\net9.0\02_classes_and_objects.pdb
+D:\vs_code\Github\Unity\C#\02_classes_and_objects\obj\Debug\net9.0\02_classes_and_objects.genruntimeconfig.cache
+D:\vs_code\Github\Unity\C#\02_classes_and_objects\obj\Debug\net9.0\ref\02_classes_and_objects.dll
