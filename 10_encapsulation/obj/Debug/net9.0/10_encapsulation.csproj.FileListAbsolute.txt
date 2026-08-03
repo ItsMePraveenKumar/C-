@@ -1,0 +1,15 @@
+D:\vs_code\Github\Unity\C#\10_encapsulation\bin\Debug\net9.0\10_encapsulation.exe
+D:\vs_code\Github\Unity\C#\10_encapsulation\bin\Debug\net9.0\10_encapsulation.deps.json
+D:\vs_code\Github\Unity\C#\10_encapsulation\bin\Debug\net9.0\10_encapsulation.runtimeconfig.json
+D:\vs_code\Github\Unity\C#\10_encapsulation\bin\Debug\net9.0\10_encapsulation.dll
+D:\vs_code\Github\Unity\C#\10_encapsulation\bin\Debug\net9.0\10_encapsulation.pdb
+D:\vs_code\Github\Unity\C#\10_encapsulation\obj\Debug\net9.0\10_encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs_code\Github\Unity\C#\10_encapsulation\obj\Debug\net9.0\10_encapsulation.AssemblyInfoInputs.cache
+D:\vs_code\Github\Unity\C#\10_encapsulation\obj\Debug\net9.0\10_encapsulation.AssemblyInfo.cs
+D:\vs_code\Github\Unity\C#\10_encapsulation\obj\Debug\net9.0\10_encapsulation.csproj.CoreCompileInputs.cache
+D:\vs_code\Github\Unity\C#\10_encapsulation\obj\Debug\net9.0\10_encapsulation.sourcelink.json
+D:\vs_code\Github\Unity\C#\10_encapsulation\obj\Debug\net9.0\10_encapsulation.dll
+D:\vs_code\Github\Unity\C#\10_encapsulation\obj\Debug\net9.0\refint\10_encapsulation.dll
+D:\vs_code\Github\Unity\C#\10_encapsulation\obj\Debug\net9.0\10_encapsulation.pdb
+D:\vs_code\Github\Unity\C#\10_encapsulation\obj\Debug\net9.0\10_encapsulation.genruntimeconfig.cache
+D:\vs_code\Github\Unity\C#\10_encapsulation\obj\Debug\net9.0\ref\10_encapsulation.dll
