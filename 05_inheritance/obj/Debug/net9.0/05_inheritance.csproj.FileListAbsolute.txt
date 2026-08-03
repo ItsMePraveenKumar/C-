@@ -1,0 +1,15 @@
+D:\vs_code\Github\Unity\C#\05_inheritance\bin\Debug\net9.0\05_inheritance.exe
+D:\vs_code\Github\Unity\C#\05_inheritance\bin\Debug\net9.0\05_inheritance.deps.json
+D:\vs_code\Github\Unity\C#\05_inheritance\bin\Debug\net9.0\05_inheritance.runtimeconfig.json
+D:\vs_code\Github\Unity\C#\05_inheritance\bin\Debug\net9.0\05_inheritance.dll
+D:\vs_code\Github\Unity\C#\05_inheritance\bin\Debug\net9.0\05_inheritance.pdb
+D:\vs_code\Github\Unity\C#\05_inheritance\obj\Debug\net9.0\05_inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs_code\Github\Unity\C#\05_inheritance\obj\Debug\net9.0\05_inheritance.AssemblyInfoInputs.cache
+D:\vs_code\Github\Unity\C#\05_inheritance\obj\Debug\net9.0\05_inheritance.AssemblyInfo.cs
+D:\vs_code\Github\Unity\C#\05_inheritance\obj\Debug\net9.0\05_inheritance.csproj.CoreCompileInputs.cache
+D:\vs_code\Github\Unity\C#\05_inheritance\obj\Debug\net9.0\05_inheritance.sourcelink.json
+D:\vs_code\Github\Unity\C#\05_inheritance\obj\Debug\net9.0\05_inheritance.dll
+D:\vs_code\Github\Unity\C#\05_inheritance\obj\Debug\net9.0\refint\05_inheritance.dll
+D:\vs_code\Github\Unity\C#\05_inheritance\obj\Debug\net9.0\05_inheritance.pdb
+D:\vs_code\Github\Unity\C#\05_inheritance\obj\Debug\net9.0\05_inheritance.genruntimeconfig.cache
+D:\vs_code\Github\Unity\C#\05_inheritance\obj\Debug\net9.0\ref\05_inheritance.dll
