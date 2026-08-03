@@ -1,0 +1,15 @@
+D:\vs_code\Github\Unity\C#\06_method_overriding\bin\Debug\net9.0\06_method_overriding.exe
+D:\vs_code\Github\Unity\C#\06_method_overriding\bin\Debug\net9.0\06_method_overriding.deps.json
+D:\vs_code\Github\Unity\C#\06_method_overriding\bin\Debug\net9.0\06_method_overriding.runtimeconfig.json
+D:\vs_code\Github\Unity\C#\06_method_overriding\bin\Debug\net9.0\06_method_overriding.dll
+D:\vs_code\Github\Unity\C#\06_method_overriding\bin\Debug\net9.0\06_method_overriding.pdb
+D:\vs_code\Github\Unity\C#\06_method_overriding\obj\Debug\net9.0\06_method_overriding.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs_code\Github\Unity\C#\06_method_overriding\obj\Debug\net9.0\06_method_overriding.AssemblyInfoInputs.cache
+D:\vs_code\Github\Unity\C#\06_method_overriding\obj\Debug\net9.0\06_method_overriding.AssemblyInfo.cs
+D:\vs_code\Github\Unity\C#\06_method_overriding\obj\Debug\net9.0\06_method_overriding.csproj.CoreCompileInputs.cache
+D:\vs_code\Github\Unity\C#\06_method_overriding\obj\Debug\net9.0\06_method_overriding.sourcelink.json
+D:\vs_code\Github\Unity\C#\06_method_overriding\obj\Debug\net9.0\06_method_overriding.dll
+D:\vs_code\Github\Unity\C#\06_method_overriding\obj\Debug\net9.0\refint\06_method_overriding.dll
+D:\vs_code\Github\Unity\C#\06_method_overriding\obj\Debug\net9.0\06_method_overriding.pdb
+D:\vs_code\Github\Unity\C#\06_method_overriding\obj\Debug\net9.0\06_method_overriding.genruntimeconfig.cache
+D:\vs_code\Github\Unity\C#\06_method_overriding\obj\Debug\net9.0\ref\06_method_overriding.dll
