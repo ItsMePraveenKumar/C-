@@ -1,0 +1,15 @@
+D:\vs_code\Github\Unity\C#\04_access_modifiers\obj\Debug\net9.0\04_access_modifiers.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs_code\Github\Unity\C#\04_access_modifiers\obj\Debug\net9.0\04_access_modifiers.AssemblyInfoInputs.cache
+D:\vs_code\Github\Unity\C#\04_access_modifiers\obj\Debug\net9.0\04_access_modifiers.AssemblyInfo.cs
+D:\vs_code\Github\Unity\C#\04_access_modifiers\obj\Debug\net9.0\04_access_modifiers.csproj.CoreCompileInputs.cache
+D:\vs_code\Github\Unity\C#\04_access_modifiers\obj\Debug\net9.0\04_access_modifiers.sourcelink.json
+D:\vs_code\Github\Unity\C#\04_access_modifiers\bin\Debug\net9.0\04_access_modifiers.exe
+D:\vs_code\Github\Unity\C#\04_access_modifiers\bin\Debug\net9.0\04_access_modifiers.deps.json
+D:\vs_code\Github\Unity\C#\04_access_modifiers\bin\Debug\net9.0\04_access_modifiers.runtimeconfig.json
+D:\vs_code\Github\Unity\C#\04_access_modifiers\bin\Debug\net9.0\04_access_modifiers.dll
+D:\vs_code\Github\Unity\C#\04_access_modifiers\bin\Debug\net9.0\04_access_modifiers.pdb
+D:\vs_code\Github\Unity\C#\04_access_modifiers\obj\Debug\net9.0\04_access_modifiers.dll
+D:\vs_code\Github\Unity\C#\04_access_modifiers\obj\Debug\net9.0\refint\04_access_modifiers.dll
+D:\vs_code\Github\Unity\C#\04_access_modifiers\obj\Debug\net9.0\04_access_modifiers.pdb
+D:\vs_code\Github\Unity\C#\04_access_modifiers\obj\Debug\net9.0\04_access_modifiers.genruntimeconfig.cache
+D:\vs_code\Github\Unity\C#\04_access_modifiers\obj\Debug\net9.0\ref\04_access_modifiers.dll
