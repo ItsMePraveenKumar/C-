@@ -1,0 +1,15 @@
+D:\vs_code\Github\Unity\C#\07_polymorphism\bin\Debug\net9.0\07_polymorphism.exe
+D:\vs_code\Github\Unity\C#\07_polymorphism\bin\Debug\net9.0\07_polymorphism.deps.json
+D:\vs_code\Github\Unity\C#\07_polymorphism\bin\Debug\net9.0\07_polymorphism.runtimeconfig.json
+D:\vs_code\Github\Unity\C#\07_polymorphism\bin\Debug\net9.0\07_polymorphism.dll
+D:\vs_code\Github\Unity\C#\07_polymorphism\bin\Debug\net9.0\07_polymorphism.pdb
+D:\vs_code\Github\Unity\C#\07_polymorphism\obj\Debug\net9.0\07_polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs_code\Github\Unity\C#\07_polymorphism\obj\Debug\net9.0\07_polymorphism.AssemblyInfoInputs.cache
+D:\vs_code\Github\Unity\C#\07_polymorphism\obj\Debug\net9.0\07_polymorphism.AssemblyInfo.cs
+D:\vs_code\Github\Unity\C#\07_polymorphism\obj\Debug\net9.0\07_polymorphism.csproj.CoreCompileInputs.cache
+D:\vs_code\Github\Unity\C#\07_polymorphism\obj\Debug\net9.0\07_polymorphism.sourcelink.json
+D:\vs_code\Github\Unity\C#\07_polymorphism\obj\Debug\net9.0\07_polymorphism.dll
+D:\vs_code\Github\Unity\C#\07_polymorphism\obj\Debug\net9.0\refint\07_polymorphism.dll
+D:\vs_code\Github\Unity\C#\07_polymorphism\obj\Debug\net9.0\07_polymorphism.pdb
+D:\vs_code\Github\Unity\C#\07_polymorphism\obj\Debug\net9.0\07_polymorphism.genruntimeconfig.cache
+D:\vs_code\Github\Unity\C#\07_polymorphism\obj\Debug\net9.0\ref\07_polymorphism.dll
