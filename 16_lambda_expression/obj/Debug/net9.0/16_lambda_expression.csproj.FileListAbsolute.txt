@@ -1,0 +1,15 @@
+D:\vs_code\Github\Unity\C#\16_lambda_expression\bin\Debug\net9.0\16_lambda_expression.exe
+D:\vs_code\Github\Unity\C#\16_lambda_expression\bin\Debug\net9.0\16_lambda_expression.deps.json
+D:\vs_code\Github\Unity\C#\16_lambda_expression\bin\Debug\net9.0\16_lambda_expression.runtimeconfig.json
+D:\vs_code\Github\Unity\C#\16_lambda_expression\bin\Debug\net9.0\16_lambda_expression.dll
+D:\vs_code\Github\Unity\C#\16_lambda_expression\bin\Debug\net9.0\16_lambda_expression.pdb
+D:\vs_code\Github\Unity\C#\16_lambda_expression\obj\Debug\net9.0\16_lambda_expression.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs_code\Github\Unity\C#\16_lambda_expression\obj\Debug\net9.0\16_lambda_expression.AssemblyInfoInputs.cache
+D:\vs_code\Github\Unity\C#\16_lambda_expression\obj\Debug\net9.0\16_lambda_expression.AssemblyInfo.cs
+D:\vs_code\Github\Unity\C#\16_lambda_expression\obj\Debug\net9.0\16_lambda_expression.csproj.CoreCompileInputs.cache
+D:\vs_code\Github\Unity\C#\16_lambda_expression\obj\Debug\net9.0\16_lambda_expression.sourcelink.json
+D:\vs_code\Github\Unity\C#\16_lambda_expression\obj\Debug\net9.0\16_lambda_expression.dll
+D:\vs_code\Github\Unity\C#\16_lambda_expression\obj\Debug\net9.0\refint\16_lambda_expression.dll
+D:\vs_code\Github\Unity\C#\16_lambda_expression\obj\Debug\net9.0\16_lambda_expression.pdb
+D:\vs_code\Github\Unity\C#\16_lambda_expression\obj\Debug\net9.0\16_lambda_expression.genruntimeconfig.cache
+D:\vs_code\Github\Unity\C#\16_lambda_expression\obj\Debug\net9.0\ref\16_lambda_expression.dll
