@@ -1,0 +1,15 @@
+D:\vs_code\Github\Unity\C#\15_event\bin\Debug\net9.0\15_event.exe
+D:\vs_code\Github\Unity\C#\15_event\bin\Debug\net9.0\15_event.deps.json
+D:\vs_code\Github\Unity\C#\15_event\bin\Debug\net9.0\15_event.runtimeconfig.json
+D:\vs_code\Github\Unity\C#\15_event\bin\Debug\net9.0\15_event.dll
+D:\vs_code\Github\Unity\C#\15_event\bin\Debug\net9.0\15_event.pdb
+D:\vs_code\Github\Unity\C#\15_event\obj\Debug\net9.0\15_event.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs_code\Github\Unity\C#\15_event\obj\Debug\net9.0\15_event.AssemblyInfoInputs.cache
+D:\vs_code\Github\Unity\C#\15_event\obj\Debug\net9.0\15_event.AssemblyInfo.cs
+D:\vs_code\Github\Unity\C#\15_event\obj\Debug\net9.0\15_event.csproj.CoreCompileInputs.cache
+D:\vs_code\Github\Unity\C#\15_event\obj\Debug\net9.0\15_event.sourcelink.json
+D:\vs_code\Github\Unity\C#\15_event\obj\Debug\net9.0\15_event.dll
+D:\vs_code\Github\Unity\C#\15_event\obj\Debug\net9.0\refint\15_event.dll
+D:\vs_code\Github\Unity\C#\15_event\obj\Debug\net9.0\15_event.pdb
+D:\vs_code\Github\Unity\C#\15_event\obj\Debug\net9.0\15_event.genruntimeconfig.cache
+D:\vs_code\Github\Unity\C#\15_event\obj\Debug\net9.0\ref\15_event.dll
