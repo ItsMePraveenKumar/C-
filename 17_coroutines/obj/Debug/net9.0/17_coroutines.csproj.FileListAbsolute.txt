@@ -1,0 +1,15 @@
+D:\vs_code\Github\Unity\C#\17_coroutines\obj\Debug\net9.0\17_coroutines.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs_code\Github\Unity\C#\17_coroutines\obj\Debug\net9.0\17_coroutines.AssemblyInfoInputs.cache
+D:\vs_code\Github\Unity\C#\17_coroutines\obj\Debug\net9.0\17_coroutines.AssemblyInfo.cs
+D:\vs_code\Github\Unity\C#\17_coroutines\obj\Debug\net9.0\17_coroutines.csproj.CoreCompileInputs.cache
+D:\vs_code\Github\Unity\C#\17_coroutines\obj\Debug\net9.0\17_coroutines.sourcelink.json
+D:\vs_code\Github\Unity\C#\17_coroutines\bin\Debug\net9.0\17_coroutines.exe
+D:\vs_code\Github\Unity\C#\17_coroutines\bin\Debug\net9.0\17_coroutines.deps.json
+D:\vs_code\Github\Unity\C#\17_coroutines\bin\Debug\net9.0\17_coroutines.runtimeconfig.json
+D:\vs_code\Github\Unity\C#\17_coroutines\bin\Debug\net9.0\17_coroutines.dll
+D:\vs_code\Github\Unity\C#\17_coroutines\bin\Debug\net9.0\17_coroutines.pdb
+D:\vs_code\Github\Unity\C#\17_coroutines\obj\Debug\net9.0\17_coroutines.dll
+D:\vs_code\Github\Unity\C#\17_coroutines\obj\Debug\net9.0\refint\17_coroutines.dll
+D:\vs_code\Github\Unity\C#\17_coroutines\obj\Debug\net9.0\17_coroutines.pdb
+D:\vs_code\Github\Unity\C#\17_coroutines\obj\Debug\net9.0\17_coroutines.genruntimeconfig.cache
+D:\vs_code\Github\Unity\C#\17_coroutines\obj\Debug\net9.0\ref\17_coroutines.dll
