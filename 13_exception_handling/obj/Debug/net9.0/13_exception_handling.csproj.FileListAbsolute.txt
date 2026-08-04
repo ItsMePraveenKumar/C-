@@ -1,0 +1,15 @@
+D:\vs_code\Github\Unity\C#\13_exception_handling\bin\Debug\net9.0\13_exception_handling.exe
+D:\vs_code\Github\Unity\C#\13_exception_handling\bin\Debug\net9.0\13_exception_handling.deps.json
+D:\vs_code\Github\Unity\C#\13_exception_handling\bin\Debug\net9.0\13_exception_handling.runtimeconfig.json
+D:\vs_code\Github\Unity\C#\13_exception_handling\bin\Debug\net9.0\13_exception_handling.dll
+D:\vs_code\Github\Unity\C#\13_exception_handling\bin\Debug\net9.0\13_exception_handling.pdb
+D:\vs_code\Github\Unity\C#\13_exception_handling\obj\Debug\net9.0\13_exception_handling.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs_code\Github\Unity\C#\13_exception_handling\obj\Debug\net9.0\13_exception_handling.AssemblyInfoInputs.cache
+D:\vs_code\Github\Unity\C#\13_exception_handling\obj\Debug\net9.0\13_exception_handling.AssemblyInfo.cs
+D:\vs_code\Github\Unity\C#\13_exception_handling\obj\Debug\net9.0\13_exception_handling.csproj.CoreCompileInputs.cache
+D:\vs_code\Github\Unity\C#\13_exception_handling\obj\Debug\net9.0\13_exception_handling.sourcelink.json
+D:\vs_code\Github\Unity\C#\13_exception_handling\obj\Debug\net9.0\13_exception_handling.dll
+D:\vs_code\Github\Unity\C#\13_exception_handling\obj\Debug\net9.0\refint\13_exception_handling.dll
+D:\vs_code\Github\Unity\C#\13_exception_handling\obj\Debug\net9.0\13_exception_handling.pdb
+D:\vs_code\Github\Unity\C#\13_exception_handling\obj\Debug\net9.0\13_exception_handling.genruntimeconfig.cache
+D:\vs_code\Github\Unity\C#\13_exception_handling\obj\Debug\net9.0\ref\13_exception_handling.dll

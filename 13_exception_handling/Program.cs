@@ -1,0 +1,12 @@
+﻿try
+{
+    Console.WriteLine("Try");
+}
+catch
+{
+    Console.WriteLine("Catch");
+}
+finally
+{
+    Console.WriteLine("Finally");
+}
