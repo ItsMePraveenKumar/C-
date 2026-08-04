@@ -1,0 +1,15 @@
+D:\vs_code\Github\Unity\C#\12_collections\bin\Debug\net9.0\12_collections.exe
+D:\vs_code\Github\Unity\C#\12_collections\bin\Debug\net9.0\12_collections.deps.json
+D:\vs_code\Github\Unity\C#\12_collections\bin\Debug\net9.0\12_collections.runtimeconfig.json
+D:\vs_code\Github\Unity\C#\12_collections\bin\Debug\net9.0\12_collections.dll
+D:\vs_code\Github\Unity\C#\12_collections\bin\Debug\net9.0\12_collections.pdb
+D:\vs_code\Github\Unity\C#\12_collections\obj\Debug\net9.0\12_collections.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs_code\Github\Unity\C#\12_collections\obj\Debug\net9.0\12_collections.AssemblyInfoInputs.cache
+D:\vs_code\Github\Unity\C#\12_collections\obj\Debug\net9.0\12_collections.AssemblyInfo.cs
+D:\vs_code\Github\Unity\C#\12_collections\obj\Debug\net9.0\12_collections.csproj.CoreCompileInputs.cache
+D:\vs_code\Github\Unity\C#\12_collections\obj\Debug\net9.0\12_collections.sourcelink.json
+D:\vs_code\Github\Unity\C#\12_collections\obj\Debug\net9.0\12_collections.dll
+D:\vs_code\Github\Unity\C#\12_collections\obj\Debug\net9.0\refint\12_collections.dll
+D:\vs_code\Github\Unity\C#\12_collections\obj\Debug\net9.0\12_collections.pdb
+D:\vs_code\Github\Unity\C#\12_collections\obj\Debug\net9.0\12_collections.genruntimeconfig.cache
+D:\vs_code\Github\Unity\C#\12_collections\obj\Debug\net9.0\ref\12_collections.dll
